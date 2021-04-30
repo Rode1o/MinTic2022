@@ -28,6 +28,6 @@ if __name__ == '__main__':
     dscto = [div(a[0], b), div(a[1], b), div(a[2], b)]
     a = tot + tot1
     b = dscto
-    print('Mainteance price is ${},'.format(mul(a, b[0])),
-          'Employes price is ${},'.format(mul(a, b[1])),
-          'Profits are ${},'.format(mul(a, b[2])))
+    print('Mainteance price is ${}, '.format(mul(a, b[0])),
+          'Employes price is ${}, '.format(mul(a, b[1])),
+          'Profits are ${}'.format(mul(a, b[2])))
