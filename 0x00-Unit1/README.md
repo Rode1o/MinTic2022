@@ -1,4 +1,5 @@
 <h1>Challenge 1</h1>
+
 **Description of the problem:** A cashier at a recreational park must calculate the price to pay
 in tickets for a family. In the recreational park the entrance fees of the following are charged
 form: adults pay $ 15000 and children pay $ 9000. When a family enters, they are
