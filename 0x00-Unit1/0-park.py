@@ -22,15 +22,19 @@ if __name__ == '__main__':
     print("Adults price is: ${}\n".format(mul(a, b)))
     a = tot
     b = tot1
-    print('total price is: ${}'.format(add(a, b)))
+    #print('total price is: ${}'.format(add(a, b)))
     # Percentage discounts
     a = [float(30), float(45), float(25)]
     b = float(100)
     dscto = [div(a[0], b), div(a[1], b), div(a[2], b)]
     a = tot + tot1
     b = dscto
-    print('Mainteance price is ${:,}'.format(floor(mul(a, b[0]))).replace(',','.'),
+    print('Total price is: ${:,}'.format(a).replace(',','.'),
+          ',',
+          'Mainteance price is ${:,}'.format(floor(mul(a, b[0]))).replace(',','.'),
           ',',
           'Employes price is ${:,}'.format(floor(mul(a, b[1]))).replace(',','.'),
           ',',
-          'Profits are ${:,}.'.format(floor(mul(a, b[2]))).replace(',','.'))
+          'Profits are ${:,}'.format(floor(mul(a, b[2]))).replace(',','.'))
+
+
