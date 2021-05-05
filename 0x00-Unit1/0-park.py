@@ -15,11 +15,11 @@ if __name__ == '__main__':
     b = kp
     # Total amount
     tot = mul(a, b)
-    print("Kids price is: ${}".format(mul(a, b)))
+    print("Kids price is: ${:,}".format(mul(a, b)).replace(',','.'))
     a = ad
     b = ap
     tot1 = mul(a, b)
-    print("Adults price is: ${}\n".format(mul(a, b)))
+    print("Adults price is: ${:,}\n".format(mul(a, b)).replace(',','.'))
     a = tot
     b = tot1
     #print('total price is: ${}'.format(add(a, b)))
