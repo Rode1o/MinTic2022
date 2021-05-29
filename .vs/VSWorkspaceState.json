@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x00-Unit1"
+    "\\0x00-Unit1",
+    "\\0X01-Conditional"
   ],
-  "SelectedNode": "\\0x00-Unit1\\0-park.py",
+  "SelectedNode": "\\0X01-Conditional\\10-task.py",
   "PreviewInSolutionExplorer": false
 }
