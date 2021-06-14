@@ -6,6 +6,7 @@
 | **Project**                                                                             | **Description**                                                     |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | **[0x00-Unit1](./0x00-Unit1)**                                                          | Challange 1                                                         |
-| **[0x00-Unit1](./0x01-Conditional)**                                                    | Exercises                                                           |
-| **[0x00-Unit1](./0x02-Challange_2)**                                                    | Challange 2                                                         |
+| **[0x01-Conditional](./0x01-Conditional)**                                                    | Exercises                                                           |
+| **[0x02-Challange2](./0x02-Challange_2)**                                                    | Challange 2                                                         |
+| **[0x03-Challange3](./0x03-Challange_3)**                                                    | Challange 3                                                         |
  
