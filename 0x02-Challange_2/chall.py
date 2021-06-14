@@ -16,7 +16,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         if tipoContrato == "PRESTACIONSERVICIOS":
             salario_total = (salario_base)-(salario_base * 0.06+ salario_base * 0.02 + salario_base * 0.06 + salario_base * 0 )
             dict = {"nombre":nombre,
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.06,
@@ -28,7 +28,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "TERMINOFIJO":
             salario_total = (salario_base)-(salario_base * 0.1+ salario_base * 0.08 + salario_base * 0.02 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.1,
@@ -40,7 +40,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "TERMINOINDEFINIDO":
             salario_total = (salario_base)-(salario_base * 0.05+ salario_base * 0.04 + salario_base * 0.04 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.05,
@@ -52,7 +52,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "APRENDIZAJE":
             salario_total = (salario_base)-(salario_base * 0 + salario_base * 0 + salario_base * 0 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0,
@@ -69,7 +69,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         if tipoContrato == "PRESTACIONSERVICIOS":
             salario_total = (salario_base)-(salario_base * 0.06+ salario_base * 0.02 + salario_base * 0.06 + salario_base * 0 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.06,
@@ -81,7 +81,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "TERMINOFIJO":
             salario_total = (salario_base)-(salario_base * 0.1+ salario_base * 0.08 + salario_base * 0.02 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.1,
@@ -93,7 +93,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "TERMINOINDEFINIDO":
             salario_total = (salario_base)-(salario_base * 0.05+ salario_base * 0.04 + salario_base * 0.04 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0.05,
@@ -105,7 +105,7 @@ def calcularSalario (nombre , tipoContrato, cargo):
         elif tipoContrato == "APRENDIZAJE":
             salario_total = (salario_base)-(salario_base * 0 + salario_base * 0 + salario_base * 0 + salario_base * 0.04 )
             dict = {"nombre":nombre, 
-                    "tipo contratación": tipoContrato, 
+                    "tipo contrataciï¿½n": tipoContrato, 
                     "cargo": cargo,
                     "salario base": salario_base,
                     "retefuente" : salario_base * 0,

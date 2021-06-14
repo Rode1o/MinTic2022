@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\0x00-Unit1",
-    "\\0X01-Conditional"
+    "\\0X01-Conditional",
+    "\\0x02-Challange_2"
   ],
-  "SelectedNode": "\\0X01-Conditional\\10-task.py",
+  "SelectedNode": "\\0x02-Challange_2\\chall.py",
   "PreviewInSolutionExplorer": false
 }
