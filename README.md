@@ -9,4 +9,6 @@
 | **[0x01-Conditional](./0X01-Conditional)**                                                    | Exercises                                                           |
 | **[0x02-Challange2](./0x02-Challange_2)**                                                    | Challange 2                                                         |
 | **[0x03-Challange3](./0x03-Challange_3)**                                                    | Challange 3                                                         |
+| **[0x04-Challange4](./0x04-Challange_4)**                                                    | Challange 4                                                         |
+| **[0x05-Challange5](./0x05-Challange_5)**                                                    | Challange 5 Working with Pandas                                     |
  
