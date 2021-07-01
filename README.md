@@ -1,6 +1,6 @@
 ![](https://misiontic2022.mintic.gov.co/mtv2/assets/assets/images/logo-mision.png)
 <h1 align="center"> ⭐️ UTP: PEREIRA g31 ⭐️ </h1>
-<h2> I'll be uploading the answers to Mintic's unit projects about programming concepts in Python.</h2>
+<h2> I'll be uploading the answers to Mintic's unit projects about programming concepts in Python & JAVA.</h2>
 <h3>Content table</h3>
 
 | **Project**                                                                             | **Description**                                                     |
